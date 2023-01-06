@@ -1,0 +1,34 @@
+{
+  "name": "basetemp3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.2.0",
+    "element-plus": "^2.2.25",
+    "fuse.js": "^6.6.2",
+    "js-cookie": "^3.0.1",
+    "lodash": "^4.17.21",
+    "nprogress": "^0.2.0",
+    "path-browserify": "^1.0.1",
+    "path-to-regexp": "^6.2.1",
+    "screenfull": "^6.0.2",
+    "tqr": "^1.2.9",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "@vitejs/plugin-vue-jsx": "^2.1.1",
+    "sass": "^1.56.1",
+    "sass-loader": "^13.2.0",
+    "vite": "^3.2.3"
+  }
+}
